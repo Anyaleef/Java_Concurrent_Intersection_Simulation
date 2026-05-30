@@ -1,0 +1,240 @@
+Test 1, iteration 1 starts
+Vehicle 7 approaching from SOUTH
+Vehicle 1 approaching from NORTH
+Vehicle 4 approaching from WEST
+Vehicle 8 approaching from SOUTH
+Vehicle 6 approaching from EAST
+Vehicle 2 approaching from NORTH
+Vehicle 3 approaching from WEST
+Vehicle 5 approaching from EAST
+Vehicle 7 crossing intersection from SOUTH
+Vehicle 8 crossing intersection from SOUTH
+Vehicle 7 crossed intersection
+Vehicle 8 crossed intersection
+Vehicle 6 crossing intersection from EAST
+Vehicle 5 crossing intersection from EAST
+Vehicle 6 crossed intersection
+Vehicle 5 crossed intersection
+Vehicle 3 crossing intersection from WEST
+Vehicle 4 crossing intersection from WEST
+Vehicle 4 crossed intersection
+Vehicle 3 crossed intersection
+Vehicle 1 crossing intersection from NORTH
+Vehicle 2 crossing intersection from NORTH
+Vehicle 2 crossed intersection
+Vehicle 1 crossed intersection
+Test 1, iteration 1 done
+--------------------------------------------
+Test 1, iteration 2 starts
+Vehicle 2 approaching from NORTH
+Vehicle 2 crossing intersection from NORTH
+Vehicle 1 approaching from NORTH
+Vehicle 5 approaching from EAST
+Vehicle 1 crossing intersection from NORTH
+Vehicle 6 approaching from EAST
+Vehicle 7 approaching from SOUTH
+Vehicle 3 approaching from WEST
+Vehicle 8 approaching from SOUTH
+Vehicle 4 approaching from WEST
+Vehicle 2 crossed intersection
+Vehicle 1 crossed intersection
+Vehicle 5 crossing intersection from EAST
+Vehicle 6 crossing intersection from EAST
+Vehicle 5 crossed intersection
+Vehicle 6 crossed intersection
+Vehicle 7 crossing intersection from SOUTH
+Vehicle 8 crossing intersection from SOUTH
+Vehicle 7 crossed intersection
+Vehicle 8 crossed intersection
+Vehicle 3 crossing intersection from WEST
+Vehicle 4 crossing intersection from WEST
+Vehicle 3 crossed intersection
+Vehicle 4 crossed intersection
+Test 1, iteration 2 done
+--------------------------------------------
+Test 1, iteration 3 starts
+Vehicle 2 approaching from NORTH
+Vehicle 2 crossing intersection from NORTH
+Vehicle 7 approaching from SOUTH
+Vehicle 1 approaching from NORTH
+Vehicle 4 approaching from WEST
+Vehicle 1 crossing intersection from NORTH
+Vehicle 5 approaching from EAST
+Vehicle 8 approaching from SOUTH
+Vehicle 3 approaching from WEST
+Vehicle 6 approaching from EAST
+Vehicle 1 crossed intersection
+Vehicle 2 crossed intersection
+Vehicle 7 crossing intersection from SOUTH
+Vehicle 8 crossing intersection from SOUTH
+Vehicle 7 crossed intersection
+Vehicle 8 crossed intersection
+Vehicle 4 crossing intersection from WEST
+Vehicle 3 crossing intersection from WEST
+Vehicle 3 crossed intersection
+Vehicle 4 crossed intersection
+Vehicle 5 crossing intersection from EAST
+Vehicle 6 crossing intersection from EAST
+Vehicle 6 crossed intersection
+Vehicle 5 crossed intersection
+Test 1, iteration 3 done
+--------------------------------------------
+Test 1, iteration 4 starts
+Vehicle 1 approaching from NORTH
+Vehicle 3 approaching from WEST
+Vehicle 4 approaching from WEST
+Vehicle 1 crossing intersection from NORTH
+Vehicle 2 approaching from NORTH
+Vehicle 2 crossing intersection from NORTH
+Vehicle 5 approaching from EAST
+Vehicle 6 approaching from EAST
+Vehicle 7 approaching from SOUTH
+Vehicle 8 approaching from SOUTH
+Vehicle 1 crossed intersection
+Vehicle 2 crossed intersection
+Vehicle 3 crossing intersection from WEST
+Vehicle 4 crossing intersection from WEST
+Vehicle 3 crossed intersection
+Vehicle 4 crossed intersection
+Vehicle 5 crossing intersection from EAST
+Vehicle 6 crossing intersection from EAST
+Vehicle 5 crossed intersection
+Vehicle 6 crossed intersection
+Vehicle 8 crossing intersection from SOUTH
+Vehicle 7 crossing intersection from SOUTH
+Vehicle 8 crossed intersection
+Vehicle 7 crossed intersection
+Test 1, iteration 4 done
+--------------------------------------------
+Test 1, iteration 5 starts
+Vehicle 1 approaching from NORTH
+Vehicle 2 approaching from NORTH
+Vehicle 1 crossing intersection from NORTH
+Vehicle 5 approaching from EAST
+Vehicle 4 approaching from WEST
+Vehicle 2 crossing intersection from NORTH
+Vehicle 8 approaching from SOUTH
+Vehicle 7 approaching from SOUTH
+Vehicle 3 approaching from WEST
+Vehicle 6 approaching from EAST
+Vehicle 2 crossed intersection
+Vehicle 1 crossed intersection
+Vehicle 5 crossing intersection from EAST
+Vehicle 6 crossing intersection from EAST
+Vehicle 6 crossed intersection
+Vehicle 5 crossed intersection
+Vehicle 4 crossing intersection from WEST
+Vehicle 3 crossing intersection from WEST
+Vehicle 4 crossed intersection
+Vehicle 3 crossed intersection
+Vehicle 8 crossing intersection from SOUTH
+Vehicle 7 crossing intersection from SOUTH
+Vehicle 8 crossed intersection
+Vehicle 7 crossed intersection
+Test 1, iteration 5 done
+--------------------------------------------
+Test 2, iteration 1 starts
+Vehicle 2 approaching from NORTH
+Vehicle 2 crossing intersection from NORTH
+Vehicle 1 approaching from NORTH
+Vehicle 1 crossing intersection from NORTH
+Vehicle 3 approaching from WEST
+Vehicle 4 approaching from NORTH
+Vehicle 6 approaching from WEST
+Vehicle 5 approaching from NORTH
+Vehicle 1 crossed intersection
+Vehicle 2 crossed intersection
+Vehicle 3 crossing intersection from WEST
+Vehicle 6 crossing intersection from WEST
+Vehicle 6 crossed intersection
+Vehicle 3 crossed intersection
+Vehicle 4 crossing intersection from NORTH
+Vehicle 5 crossing intersection from NORTH
+Vehicle 4 crossed intersection
+Vehicle 5 crossed intersection
+Test 2, iteration 1 done
+--------------------------------------------
+Test 2, iteration 2 starts
+Vehicle 1 approaching from NORTH
+Vehicle 1 crossing intersection from NORTH
+Vehicle 2 approaching from NORTH
+Vehicle 2 crossing intersection from NORTH
+Vehicle 3 approaching from WEST
+Vehicle 4 approaching from NORTH
+Vehicle 6 approaching from WEST
+Vehicle 5 approaching from NORTH
+Vehicle 1 crossed intersection
+Vehicle 2 crossed intersection
+Vehicle 3 crossing intersection from WEST
+Vehicle 6 crossing intersection from WEST
+Vehicle 6 crossed intersection
+Vehicle 3 crossed intersection
+Vehicle 4 crossing intersection from NORTH
+Vehicle 5 crossing intersection from NORTH
+Vehicle 5 crossed intersection
+Vehicle 4 crossed intersection
+Test 2, iteration 2 done
+--------------------------------------------
+Test 2, iteration 3 starts
+Vehicle 1 approaching from NORTH
+Vehicle 2 approaching from NORTH
+Vehicle 2 crossing intersection from NORTH
+Vehicle 1 crossing intersection from NORTH
+Vehicle 3 approaching from WEST
+Vehicle 4 approaching from NORTH
+Vehicle 5 approaching from NORTH
+Vehicle 6 approaching from WEST
+Vehicle 2 crossed intersection
+Vehicle 1 crossed intersection
+Vehicle 3 crossing intersection from WEST
+Vehicle 6 crossing intersection from WEST
+Vehicle 6 crossed intersection
+Vehicle 3 crossed intersection
+Vehicle 5 crossing intersection from NORTH
+Vehicle 4 crossing intersection from NORTH
+Vehicle 4 crossed intersection
+Vehicle 5 crossed intersection
+Test 2, iteration 3 done
+--------------------------------------------
+Test 2, iteration 4 starts
+Vehicle 1 approaching from NORTH
+Vehicle 2 approaching from NORTH
+Vehicle 1 crossing intersection from NORTH
+Vehicle 2 crossing intersection from NORTH
+Vehicle 3 approaching from WEST
+Vehicle 5 approaching from NORTH
+Vehicle 4 approaching from NORTH
+Vehicle 6 approaching from WEST
+Vehicle 1 crossed intersection
+Vehicle 2 crossed intersection
+Vehicle 3 crossing intersection from WEST
+Vehicle 6 crossing intersection from WEST
+Vehicle 3 crossed intersection
+Vehicle 6 crossed intersection
+Vehicle 5 crossing intersection from NORTH
+Vehicle 4 crossing intersection from NORTH
+Vehicle 5 crossed intersection
+Vehicle 4 crossed intersection
+Test 2, iteration 4 done
+--------------------------------------------
+Test 2, iteration 5 starts
+Vehicle 2 approaching from NORTH
+Vehicle 1 approaching from NORTH
+Vehicle 1 crossing intersection from NORTH
+Vehicle 2 crossing intersection from NORTH
+Vehicle 3 approaching from WEST
+Vehicle 5 approaching from NORTH
+Vehicle 4 approaching from NORTH
+Vehicle 6 approaching from WEST
+Vehicle 2 crossed intersection
+Vehicle 1 crossed intersection
+Vehicle 3 crossing intersection from WEST
+Vehicle 6 crossing intersection from WEST
+Vehicle 3 crossed intersection
+Vehicle 6 crossed intersection
+Vehicle 5 crossing intersection from NORTH
+Vehicle 4 crossing intersection from NORTH
+Vehicle 4 crossed intersection
+Vehicle 5 crossed intersection
+Test 2, iteration 5 done
+--------------------------------------------
