@@ -12,7 +12,7 @@ The program simulates multiple vehicle threads attempting to cross a shared inte
 
 
 
-##### **Task Summary**
+#### **Task Summary**
 
 The main goal was to implement the `Intersection` class, which controls when vehicles may enter and exit the intersection.
 
@@ -64,7 +64,7 @@ The synchronization rules are:
 
 
 
-##### **Concepts Practiced**
+#### **Concepts Practiced**
 
 \- Java multithreading
 
@@ -80,13 +80,13 @@ The synchronization rules are:
 
 
 
-##### **Tools**
+#### **Tools**
 
 Java
 
 
 
-##### **Files**
+#### **Files**
 
 \- `src/Intersection.java` - my implementation of the intersection synchronization logic
 
@@ -102,7 +102,7 @@ Java
 
 
 
-##### **Authorship Note**
+#### **Authorship Note**
 
 The files `Main.java`, `Vehicle.java`, and `Direction.java` were provided as part of the course assignment starter code.
 
@@ -112,7 +112,7 @@ My implementation work focused on `Intersection.java`, which contains the synchr
 
 
 
-##### **How to Run**
+#### **How to Run**
 
 Compile:
 
