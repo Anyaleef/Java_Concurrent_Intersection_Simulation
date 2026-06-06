@@ -1,4 +1,4 @@
-# Java Concurrent Intersection Simulation
+# Java Concurrent Intersection Simulation ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 
 This project is a Java concurrency exercise from a **Software Engineering** course.
 The program simulates multiple vehicle threads attempting to cross a shared intersection. Vehicles from the same direction may cross together, vehicles from conflicting directions must wait, and emergency vehicles receive priority.
